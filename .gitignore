@@ -39,3 +39,6 @@ build/
 
 .idea
 .build
+.allure
+
+!target/allure-results/

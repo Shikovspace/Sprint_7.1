@@ -1,4 +1,4 @@
-package java.ru.yandex.samokat.order;
+package ru.yandex.samokat.order;
 
 import com.github.javafaker.Faker;
 import io.restassured.response.ValidatableResponse;

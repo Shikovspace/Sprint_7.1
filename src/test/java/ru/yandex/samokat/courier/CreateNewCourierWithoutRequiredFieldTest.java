@@ -1,4 +1,4 @@
-package java.ru.yandex.samokat.courier;
+package ru.yandex.samokat.courier;
 
 import com.github.javafaker.Faker;
 import io.qameta.allure.Description;

@@ -1,4 +1,4 @@
-package java.ru.yandex.samokat.login;
+package ru.yandex.samokat.login;
 
 import com.github.javafaker.Faker;
 import io.qameta.allure.junit4.DisplayName;

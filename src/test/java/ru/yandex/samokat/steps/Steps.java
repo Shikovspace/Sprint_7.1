@@ -1,4 +1,4 @@
-package java.ru.yandex.samokat.steps;
+package ru.yandex.samokat.steps;
 
 import io.qameta.allure.Step;
 import io.restassured.response.Response;

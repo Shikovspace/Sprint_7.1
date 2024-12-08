@@ -1,4 +1,4 @@
-package java.ru.yandex.samokat.order;
+package ru.yandex.samokat.order;
 
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.Response;
